@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/HammingCode74/">
+    <File Path="README.md" />
+    <Project Path="HammingImpementation/HammingImplementation.csproj" />
+  </Folder>
+</Solution>
