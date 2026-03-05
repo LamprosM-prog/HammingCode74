@@ -1,0 +1,5 @@
+D:\Projects\HammingImplementation.exe
+D:\Projects\HammingImplementation.dll
+D:\Projects\HammingImplementation.deps.json
+D:\Projects\HammingImplementation.runtimeconfig.json
+D:\Projects\HammingImplementation.pdb

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\bin\Release\net10.0\HammingImplementation.exe
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\bin\Release\net10.0\HammingImplementation.deps.json
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\bin\Release\net10.0\HammingImplementation.runtimeconfig.json
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\bin\Release\net10.0\HammingImplementation.dll
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\bin\Release\net10.0\HammingImplementation.pdb
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\obj\Release\net10.0\HammingImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\obj\Release\net10.0\HammingImplementation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\obj\Release\net10.0\HammingImplementation.AssemblyInfo.cs
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\obj\Release\net10.0\HammingImplementation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\obj\Release\net10.0\HammingImplementation.dll
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\obj\Release\net10.0\refint\HammingImplementation.dll
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\obj\Release\net10.0\HammingImplementation.pdb
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\obj\Release\net10.0\HammingImplementation.genruntimeconfig.cache
+C:\Users\User\source\repos\HammingImpementation\HammingImpementation\obj\Release\net10.0\ref\HammingImplementation.dll
