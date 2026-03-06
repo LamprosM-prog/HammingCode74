@@ -15,10 +15,10 @@ This is a console application implementing the Hamming(7,4) error-correcting cod
 4. Type your message and see encoding, noise, and decoding in action.
 
 ## Example
-dotnet run
-Enter message: Hi world
-The program will encode the message, and show you the binary form of it. It will also show what bits were flipped due to noise
-and will show you the final version of the message after the error correction.
+- dotnet run
+- Enter message: Hi world
+- The program will encode the message, and show you the binary form of it.
+- It will also show what bits were flipped due to noise and will show you the final version of the message after the error correction.
 
 ## Notes
 - This project is educational and shows the underlying mechanics of Hamming code.
