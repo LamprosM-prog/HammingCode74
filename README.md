@@ -16,7 +16,7 @@ This is a console application implementing the Hamming(7,4) error-correcting cod
 
 ## Example
 - dotnet run
-- Enter message: Hi world
+- Enter message: "Hi world" (No UTF8 Characters)
 - The program will encode the message, and show you the binary form of it.
 - It will also show what bits were flipped due to noise and will show you the final version of the message after the error correction.
 
