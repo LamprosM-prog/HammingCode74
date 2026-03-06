@@ -16,4 +16,4 @@ This is a console application implementing the Hamming(7,4) error-correcting cod
 
 ## Notes
 - This project is educational and shows the underlying mechanics of Hamming code.
--This program is framework dependent, it will only run on machine with .NET 10 installed.
+- This program is framework dependent, it will only run on machine with .NET 10 installed.
